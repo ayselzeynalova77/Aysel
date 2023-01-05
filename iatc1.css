@@ -1,0 +1,16 @@
+hr{
+    position:relative;
+   top:75px;
+};
+p{
+    font-size: 40px;
+};
+h3.tr{
+    font-size: 30px;
+};
+#hr1{
+    width: 100px;
+    position:relative;
+    top:5px;
+
+}
